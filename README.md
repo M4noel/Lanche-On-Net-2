@@ -13,6 +13,20 @@ Tecnologias utilizadas
 **Banco de Dados (MongoDB)**: Utilizamos o MongoDB para armazenar de forma eficiente os dados do sistema, proporcionando escalabilidade e flexibilidade para diferentes modelos de negócio.
 
 -------------------------
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev - Public
+npm start - Src
+npm start - Pagameto
+```
+-------------------------
+
 ## Home
 ![foto-1](https://github.com/M4noel/Lanche-On-Net-2/assets/86434035/69a8044a-28cc-49c9-b0b9-19eb50fdb6c9)
 -------------------------
